@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XPlayerTest", "XPlayerTest\XPlayerTest.vcxproj", "{CDCC627E-87EF-4836-A209-215A51E74D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCC627E-87EF-4836-A209-215A51E74D66}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDCC627E-87EF-4836-A209-215A51E74D66}.Debug|x86.Build.0 = Debug|Win32
+		{CDCC627E-87EF-4836-A209-215A51E74D66}.Release|x86.ActiveCfg = Release|Win32
+		{CDCC627E-87EF-4836-A209-215A51E74D66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D6688E-A745-4759-9EC7-51AAC6C04D23}
+	EndGlobalSection
+EndGlobal
